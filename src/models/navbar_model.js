@@ -11,6 +11,7 @@ const navbardata = [
   new NavbarModels(2,'Footer','/footer'),
   new NavbarModels(3,'Gride','/gride'),
   new NavbarModels(4,'Slider','/slider'),
+  new NavbarModels(4,'Counter App','/counter'),
 ];
 module.exports = {
   navbardata,
