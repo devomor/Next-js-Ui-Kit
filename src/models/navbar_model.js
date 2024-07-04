@@ -10,7 +10,7 @@ const navbardata = [
   new NavbarModels(1,'NavBar','/nav'),
   new NavbarModels(2,'Footer','/footer'),
   new NavbarModels(3,'Gride','/gride'),
-  new NavbarModels(4,'Button','/button'),
+  new NavbarModels(4,'Slider','/slider'),
 ];
 module.exports = {
   navbardata,
