@@ -11,8 +11,9 @@ const navbardata = [
   new NavbarModels(2,'Footer','/footer'),
   new NavbarModels(3,'Gride','/gride'),
   new NavbarModels(4,'Slider','/slider'),
-  new NavbarModels(4,'Counter App','/counter'),
-  new NavbarModels(4,'Timer App','/timer'),
+  new NavbarModels(5,'Counter App','/counter'),
+  new NavbarModels(6,'Timer App','/timer'),
+  new NavbarModels(7,'Api fetch','/productlist'),
 ];
 module.exports = {
   navbardata,
